@@ -2,3 +2,4 @@ venv/
 README.txt
 data/
 src/__pycache__/
+models/
